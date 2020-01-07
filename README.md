@@ -1,2 +1,3 @@
 # weather-app
-  - Detect
+  
+  - Detect the Weather condition by providing city name.
